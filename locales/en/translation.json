@@ -1,5 +1,7 @@
 {
-  "duplicateTest": "duplicateTest",
+  "bottle": "bottle",
+  "water": "water",
+  "venus": "Venus",
   "earth": "Earth",
-  "venus": "Venus"
+  "mars": "Mars"
 }
