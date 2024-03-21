@@ -1,8 +1,6 @@
 {
-  "bottle": "bottle",
-  "water": "water",
-  "venus": "Venus",
   "mars": "Mars",
   "jupiter": "Jupiter",
-  "saturn": "Saturn"
+  "saturn": "Saturn",
+  "uranus": "uranus"
 }
