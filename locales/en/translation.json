@@ -1,6 +1,5 @@
 {
-  "mars": "Mars",
-  "jupiter": "Jupiter",
   "saturn": "Saturn",
-  "uranus": "uranus"
+  "uranus": "uranus",
+  "test": "test"
 }
